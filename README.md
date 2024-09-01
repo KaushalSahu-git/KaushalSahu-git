@@ -1,4 +1,4 @@
-![lolo](https://github.com/KaushalSahu-git/KaushalSahu-git/blob/main/github_banner2.png)
+![lolo](https://github.com/KaushalSahu-git/KaushalSahu-git/blob/main/newbanner.png)
 <h1 align="center">Hi 👋, I'm Kaushlendra Sahu</h1>
 <h3 align="center">A passionate frontend Engineer from India</h3>
 
