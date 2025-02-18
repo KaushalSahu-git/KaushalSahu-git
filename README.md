@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kaushal.git@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGffLNWerw/zKzW-6TiJzzAueO0paRP0A/view?utm_content=DAGffLNWerw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hffbc31060b](https://www.canva.com/design/DAGffLNWerw/zKzW-6TiJzzAueO0paRP0A/view?utm_content=DAGffLNWerw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hffbc31060b)
+- 📄 Know about my experiences [https://github.com/KaushalSahu-git/KaushalSahu-git/blob/main/updatedKaushal.pdf](https://github.com/KaushalSahu-git/KaushalSahu-git/blob/main/updatedKaushal.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
